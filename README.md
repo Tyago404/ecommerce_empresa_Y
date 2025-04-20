@@ -59,3 +59,13 @@ function soma(a,b){
 }
 
 ```
+
+## TODO LIST
+
+'x' para tarefas completadas
+' ' para tarefas a fazer
+
+- [x] FuncionalidadeA
+- [ ] FuncionalidadeB
+- [x] FuncionalidadeC
+- [ ] FuncionalidadeD
