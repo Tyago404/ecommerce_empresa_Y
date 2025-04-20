@@ -15,3 +15,10 @@ Podemos escrever em italico usando um asteristico ou uma underline
 
 Podemos combinar os dois
 >**Toda a frase em negrito com _isso em italico_**
+
+### Linguagens do projeto
+
+* HTML
+* CSS
+* TYPESCRIPT
+* MYSQL
