@@ -31,3 +31,8 @@ Podemos combinar os dois
     3. Subtarefa3
 2. FuncionalidadeB
 3. FuncionalidadC
+
+
+### Imagem local
+
+![gatinho fofo de óculos](img/gatinho.jpeg)
