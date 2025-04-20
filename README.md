@@ -22,3 +22,9 @@ Podemos combinar os dois
 * CSS
 * TYPESCRIPT
 * MYSQL
+
+### Funcionalidades a desenvolver 
+
+1. FuncionalidadeA
+2. FuncionalidadeB
+3. FuncionalidadC
