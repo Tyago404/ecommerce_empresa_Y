@@ -47,4 +47,15 @@ Podemos combinar os dois
 
 Meu github: https://github.com/Tyago404
 
+adicionando um link como imagem
 [![gatinho fofo de óculos](img/gatinho.jpeg)]( https://github.com/Tyago404)
+
+
+### Código da função soma
+
+```Javascript
+function soma(a,b){
+    return a + b 
+}
+
+```
