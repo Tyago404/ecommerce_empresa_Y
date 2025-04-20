@@ -36,3 +36,6 @@ Podemos combinar os dois
 ### Imagem local
 
 ![gatinho fofo de óculos](img/gatinho.jpeg)
+
+### Imagem externa
+![gato com nojo de brocolis](https://pt.quizur.com/_image?href=https://img.quizur.com/f/img6254a041504a05.29914252.jpg?lastEdited=1649713228&w=600&h=600&f=webp)
