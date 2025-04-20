@@ -26,5 +26,8 @@ Podemos combinar os dois
 ### Funcionalidades a desenvolver 
 
 1. FuncionalidadeA
+    1. Subtarefa1
+    2. Subtarefa2
+    3. Subtarefa3
 2. FuncionalidadeB
 3. FuncionalidadC
