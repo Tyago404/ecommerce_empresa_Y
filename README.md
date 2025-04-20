@@ -43,4 +43,6 @@ Podemos combinar os dois
 ### Links
 
 [meu instagram](https://www.instagram.com/tyago404/)
-[meu github](https://github.com/Tyago404)
+
+
+Meu github: https://github.com/Tyago404
